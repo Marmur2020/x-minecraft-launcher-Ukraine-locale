@@ -91,9 +91,9 @@ baseSetting:
 browse: Огляд
 browseApp:
   createShortcut: Створити ярлик
-  default: ЗА ЗАМОВЧУВАННЯМ
+  default: Стандарт
   delete: Видалити
-  launch: Запустити та встановити за замовчуванням
+  launch: Запустити та встановити за стандартом
 cancel: Відміна
 checkUpdate:
   name: Перевірити оновлення
@@ -116,7 +116,7 @@ curseforge:
     release: Реліз
   install: Встановити
   installTo: Встановити в {path}
-  installToStorage: Встановити у сховище
+  installToStorage: Встановити в сховище
   installed: Встановлено
   lastUpdate: Дата останнього оновлення
   mc-mods:
@@ -134,7 +134,7 @@ curseforge:
   texture-packs:
     description: Переглядайте та завантажуйте текстурпаки з Curseforge
     name: Текстурпаки
-  totalDownloads: Усього скачувань
+  totalDownloads: Усього завантажень
   worlds:
     description: Переглядайте та завантажуйте світи з Curseforge
     name: Світи
@@ -154,9 +154,9 @@ dataMigration:
   unknownError: Невідома помилка! Повторіть спробу або зверніться до розробника!
   waitReload: Перенесення даних. Не закривайте лаунчер, інакше ви втратите дані.
 delete:
-  name: Вдалити {name}
+  name: Видалити {name}
   "no": "Ні"
-  "yes": Вдалити
+  "yes": Видалити
 description: Опис
 detail: Деталі
 diagnosis:
@@ -1083,7 +1083,7 @@ transportType:
   relay: Кандидат Relay
   srflx: Кандидат Server Reflexive
 universalDrop:
-  enableModsAfterImport: Включити моди після імпорту
+  enableModsAfterImport: Відімкнути моди після імпорту
   start: Імпорт запущено
   title: Перетягніть файл(и) сюди, щоб імпортувати як
   unknownResource: Невідомо
@@ -1099,7 +1099,7 @@ user:
   info: інформація про користувача
   insecureClient: Клієнт небезпечний! Підтвердіть свою особу, щоб завантажити скін!
   name: Ім'я користувача
-  nameHint: Ім'я, що відображається в грі
+  nameHint: Ім'я, що відображається у грі
   profile: Профіль
   profileMode:  Служба профілю
   refreshAccount: Оновити обліковий запис
@@ -1120,7 +1120,7 @@ userCape:
      володієте в даний час:
   noCape: Немає плащів
 userService:
-  add: Додати дод. служби
+  add: Додати до служби
   authLibInjector: Дотримуйтесь рекомендацій щодо інжектора auth-lib
   authServiceDetail: Налаштування служби авторизації
   authenticateHint: Відповідь на звичайний запит на вхід
@@ -1129,7 +1129,7 @@ userService:
   duplicatedName: Служба з такою назвою вже існує
   hostName: URL-адреса кореневого сервера авторизації
   hostNameHint: Базове посилання вашого сервера авторизації
-  invalidUrl: Невірна URL
+  invalidUrl: Невірний URL
   invalidateHint: Зробити поточний токен недійсним при виході користувача із системи
   name: Ідентифікатор цієї служби
   normal: Дотримуйтесь звичайного кроку
