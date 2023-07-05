@@ -40,6 +40,7 @@ winget install CI010.XMinecraftLauncher
 ```
 
 [中文 README](README.zh.md)
+[Ukraine README](README.ua.md)
 
 ## Features
 
